@@ -1,9 +1,10 @@
 # bash_script_node_and_docker_at_launch
+
 <br>
+
 [ linux bash ] This script installs node and docker on an EC2 at launch
 
 <br>
-
 ```
 #!/bin/bash
 
