@@ -5,6 +5,7 @@
 [ linux bash ] This script installs node and docker on an EC2 at launch
 
 <br>
+
 ```
 #!/bin/bash
 
